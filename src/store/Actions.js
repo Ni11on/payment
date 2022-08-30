@@ -1,0 +1,5 @@
+export const ACTIONS = {
+    CONFIRMATION_KEY: 'CONFIRMATION_KEY'
+
+}
+
